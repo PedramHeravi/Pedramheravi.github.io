@@ -21,4 +21,4 @@ title: Portfolio
 - 2020
   - Boeing 787 wing flaps
   
-        <img src="Picture3.jpg" alt="Wing flaps" width="400"/>
+       <img src="Picture3.jpg" alt="Wing flaps" width="400"/>
