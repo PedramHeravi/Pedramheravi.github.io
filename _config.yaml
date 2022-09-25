@@ -1,0 +1,10 @@
+# Site Settings
+locale                   : "en-CA"
+title                    : "Pedram Heravi"
+title_separator          : "-"
+name                     : ""
+description              : ""
+url                      : https://pedramheravi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : pedramheravi/pedramheravi.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+breadcrumbs              : false # true, false (default)
