@@ -14,6 +14,7 @@ title: Portfolio
   - SpaceCraft analysis
     - Analyzed physical and surface properties of different materials used on a CubeSat, to compute thermal loads applied to its surfaces while orbiting the Earth
     - Measured cold and hot heat dissipation using Siemens NX software for a better understanding of heat behavior for different materials in space and vacuum for durability checks
+
         <img src="Picture1.jpg" alt="SpaceCraft analysis" width="400"/>
         <img src="Picture2.jpg" alt="Internal PCB and external body Max Temprature" width="400"/>
         
