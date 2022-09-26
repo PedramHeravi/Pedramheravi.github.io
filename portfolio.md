@@ -9,8 +9,9 @@ title: Portfolio
     - Conceptualized and designed sustainable solutions for drilling, collecting, and storing different soil samples for a rover involved in Canadian International Rover Challenge
     - Communicated with stakeholders and costumers, drafted project documentations at various stages of product development including PCR, and assigned tasks to team members based on their qualifications and abilities to guarantee a suitable design
     - Designed the final solution in SolidWorks and conducted environmental testing, safety and fault analysis, including thermal to validate the performance of equipment under different conditions
-      <img src="Drill Module.jpg" alt="Drill module" width="400"/>
-      <img src="Assem3.jpg" alt="Storage unit" width="400"/>
+      
+        <img src="Drill Module.jpg" alt="Drill module" width="400"/>
+        <img src="Assem3.jpg" alt="Storage unit" width="400"/>
 
 - 2021
   - SpaceCraft analysis
