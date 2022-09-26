@@ -19,9 +19,10 @@ title: Portfolio
     - Measured cold and hot heat dissipation using Siemens NX software for a better understanding of heat behavior for different materials in space and vacuum for durability checks
 
         <img src="Picture1.jpg" alt="SpaceCraft analysis" width="400"/>
-        <img src="Picture2.jpg" alt="Internal PCB and external body Max Temprature" width="400"/>
+        <img src="Capture.JPG" alt="Internal PCB and external body Max Temprature" width="400"/>
         
 - 2020
   - Boeing 787 wing flaps
   
        <img src="Picture3.jpg" alt="Wing flaps" width="400"/>
+       <img src="Picture4.png" alt="Wing flaps" width="400"/>
