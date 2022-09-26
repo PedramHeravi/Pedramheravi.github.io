@@ -12,6 +12,15 @@ title: Portfolio
       
         <img src="rover.png" alt="Rover" width="900"/>
         
+        
+- 2022
+  - Load Carrying Truss Design
+    - Designed a truss structure constructed out of Steel and Aluminum material to support and carry a 3000 N load
+    - Applied fatigue analysis and fracture mechanics, stress analysis and mass efficiency analysis using Abaqus FEA
+    - Implemented MATLAB program to automate the truss nodal displacement process
+      
+        <img src="Truss.JPG" alt="Truss design" width="600"/>
+        
 
 - 2021
   - SpaceCraft analysis
