@@ -6,7 +6,7 @@ title: Contact
 
 Lassonde School of Engineering<br />
 York University<br />
-4700 Keele St, Toronto ON. M3J 1P3 Canada [[](https://www.openstreetmap.org/way/239605501)]<br />
+4700 Keele St, Toronto ON. M3J 1P3 Canada [[Map](https://www.openstreetmap.org/way/239605501)]<br />
 Email: ppoorheravi [AT] gmail [DOT] com<br />
 
 [[LinkedIn](https://www.linkedin.com/in/pedram-heravi/)]
