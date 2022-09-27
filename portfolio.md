@@ -32,6 +32,9 @@ title: Portfolio
         
 - 2020
   - Boeing 787 wing flaps
-  
+    - Designed the aileron flaps inspired by Boeing 787 wing flaps
+    - Animated the trajectory and the motion from closed to fully open
+    - Optimized the link length and the degree of freedom
+    - Programmed the mechanism to take input from the potentiometer and cycle through max and min extentions automatically
        <img src="Picture3.jpg" alt="Wing flaps" width="400"/>
        <img src="Picture4.png" alt="Wing flaps" width="400"/>
