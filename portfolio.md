@@ -5,6 +5,31 @@ title: Portfolio
 ## [About](index.md) |  [Portfolio](portfolio.md) | [Contact](contact.md)
 
 - 2022
+  - Wind Turbine
+
+
+
+
+
+https://user-images.githubusercontent.com/114318785/200189808-110739ac-bf29-40e7-9eb4-57c34fb1737d.mp4
+
+
+
+
+- 2022
+  - Four Cylinder Engine
+
+
+
+
+
+https://user-images.githubusercontent.com/114318785/200189942-13672a8a-2ce2-444e-82aa-655f18e3b829.mp4
+
+
+
+
+
+- 2022
   - Soil sample collector
     - Conceptualized and designed sustainable solutions for drilling, collecting, and storing different soil samples for a rover involved in Canadian International Rover Challenge
     - Communicated with stakeholders and costumers, drafted project documentations at various stages of product development including PCR, and assigned tasks to team members based on their qualifications and abilities to guarantee a suitable design
