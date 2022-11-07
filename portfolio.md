@@ -5,6 +5,15 @@ title: Portfolio
 ## [About](index.md) |  [Portfolio](portfolio.md) | [Contact](contact.md)
 
 - 2022
+  - Four Cylinder Engine
+    - Designed a complete 4 cylinder engine from scratch by creating and assembling parts in SolidWorks
+    - The parts designed included Piston, Crankshaft, and Connecting Rod
+    - The Engine has a supply of 50 rmp at the shaft
+
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HwRR3wqZCCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 2022
   - Wind Turbine 
     - Designed wind turbine with base, rotor, shaft, lower and upper mast
     - Considered polished steel for the material
