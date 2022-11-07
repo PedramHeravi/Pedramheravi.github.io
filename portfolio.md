@@ -5,6 +5,15 @@ title: Portfolio
 ## [About](index.md) |  [Portfolio](portfolio.md) | [Contact](contact.md)
 
 - 2022
+  - Wind Turbine 
+    - Designed wind turbine with base, rotor, shaft, lower and upper mast
+    - Considered polished steel for the material
+    - The blades are designed considering drag force and air pressure
+    - Applied lower stress load which expands the lifespan of the turbine
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VlQLUUXPXz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+- 2022
   - Soil sample collector
     - Conceptualized and designed sustainable solutions for drilling, collecting, and storing different soil samples for a rover involved in Canadian International Rover Challenge
     - Communicated with stakeholders and costumers, drafted project documentations at various stages of product development including PCR, and assigned tasks to team members based on their qualifications and abilities to guarantee a suitable design
