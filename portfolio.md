@@ -6,10 +6,10 @@ title: Portfolio
 
 - 2022
   - Wind Turbine 
-   {% include youtube.html id="VlQLUUXPXz8" %}
- 
+    {% include youtube.html id="VlQLUUXPXz8" %}
 - 2022
-  - Four Cylinder Engine {% include youtube.html id="HwRR3wqZCCc" %}
+  - Four Cylinder Engine 
+    {% include youtube.html id="HwRR3wqZCCc" %}
 - 2022
   - Soil sample collector
     - Conceptualized and designed sustainable solutions for drilling, collecting, and storing different soil samples for a rover involved in Canadian International Rover Challenge
