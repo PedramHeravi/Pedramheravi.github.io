@@ -5,13 +5,8 @@ title: Portfolio
 ## [About](index.md) |  [Portfolio](portfolio.md) | [Contact](contact.md)
 
 - 2022
-  - Wind Turbine
+  - Wind Turbine  {% include youtube.html id="VlQLUUXPXz8" %}
 
-
-
-
-
-https://user-images.githubusercontent.com/114318785/200189808-110739ac-bf29-40e7-9eb4-57c34fb1737d.mp4
 
 
 
