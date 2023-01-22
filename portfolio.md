@@ -9,10 +9,10 @@ title: Portfolio
     - Designed and conceptualized the MQ-1 Predator drone 
     - Studied the air flow and pressure simulation on the drone in STP (Standard Temperature and Pressure) 
     
-        <img src="MQ-1Drone.JPG" alt="MQ-1 Drone" width="600"/>
-        <img src="AirFlow.JPG" alt="Air Flow" width="600"/>
-        <img src="pressure2.JPG" alt="pressure 2" width="600"/>
-        <img src="pressure1.JPG" alt="pressure1" width="600"/>
+        <img src="MQ-1Drone.jpg" alt="MQ-1 Drone" width="400"/>
+        <img src="AirFlow.jpg" alt="Air Flow" width="400"/>
+        <img src="pressure2.jpg" alt="pressure 2" width="400"/>
+        <img src="pressure1.jpg" alt="pressure1" width="400"/>
 - 2022
   - Four Cylinder Engine
     - Designed a complete 4 cylinder engine from scratch by creating and assembling parts in SolidWorks
