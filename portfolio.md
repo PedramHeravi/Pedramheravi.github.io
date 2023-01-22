@@ -4,6 +4,12 @@ title: Portfolio
 
 ## [About](index.md) |  [Portfolio](portfolio.md) | [Contact](contact.md)
 
+- 2023
+  - General Atomics MQ-1 Predator
+    - Designed and conceptualized the MQ-1 Predator drone 
+    - Studied the air flow and pressure simulation on the drone in STP (Standard Temperature and Pressure) 
+      
+        <img src="Truss.JPG" alt="Truss design" width="600"/>
 - 2022
   - Four Cylinder Engine
     - Designed a complete 4 cylinder engine from scratch by creating and assembling parts in SolidWorks
