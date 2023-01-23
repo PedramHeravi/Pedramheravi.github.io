@@ -14,6 +14,14 @@ title: Portfolio
         <img src="pressure2.jpg" alt="pressure 2" width="400"/>
         <img src="pressure1.jpg" alt="pressure1" width="400"/>
 
+- 2023
+  - House HVAC System
+    - Designed an HVAC system for a 3-bedroom house 
+    - Taking to account the layout of the rooms for an optical heating system
+      
+        <img src="HVAC1.png" alt="Front View" width="450"/>
+        
+        <img src="HVAC2.png" alt="Back View" width="450"/>
     
 - 2022
   - Soil sample collector
