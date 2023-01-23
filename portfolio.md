@@ -19,9 +19,9 @@ title: Portfolio
     - Designed an HVAC system for a 3-bedroom house 
     - Taking to account the layout of the rooms for an optical heating system
       
-        <img src="HVAC1.png" alt="Front View" width="450"/>
+        <img src="HVAC1.png" alt="Front View" width="400"/>
         
-        <img src="HVAC2.png" alt="Back View" width="450"/>
+        <img src="HVAC2.png" alt="Back View" width="400"/>
     
 - 2022
   - Soil sample collector
