@@ -13,23 +13,7 @@ title: Portfolio
         <img src="AirFlow.jpg" alt="Air Flow" width="400"/>
         <img src="pressure2.jpg" alt="pressure 2" width="400"/>
         <img src="pressure1.jpg" alt="pressure1" width="400"/>
-- 2022
-  - Four Cylinder Engine
-    - Designed a complete 4 cylinder engine from scratch by creating and assembling parts in SolidWorks
-    - The parts designed included Piston, Crankshaft, and Connecting Rod
-    - The Engine has a supply of 50 rmp at the shaft
 
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HwRR3wqZCCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- 2022
-  - Wind Turbine 
-    - Designed wind turbine with base, rotor, shaft, lower and upper mast
-    - Considered polished steel for the material
-    - The blades are designed considering drag force and air pressure
-    - Applied lower stress load which expands the lifespan of the turbine
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/VlQLUUXPXz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
 - 2022
   - Soil sample collector
