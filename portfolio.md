@@ -4,7 +4,15 @@ title: Portfolio
 
 ## [About](index.md) |  [Portfolio](portfolio.md) | [Contact](contact.md)
 
-
+- 2023
+  - Soil Sample Collector
+    - A total of 16 anchors were installed on the rooftop of the building. During our assessment, it was determined that 4 of these anchors required modification.
+    - The modified anchors have been equipped with a 45-degree bend. This design allows window cleaners to secure their safety ropes solely on the U-bar of the anchor, thereby minimizing the risk of safety rope damage.
+    - These anchor modifications have not only prioritized safety but also optimized operational efficiency. 
+      
+        <img src="Roof Drawing.jpg" alt="Roof Plan" width="900"/>
+        <img src="Eng.Drawing.jpg " alt="Mechanical Drawing" width="900"/>
+        <img src="45 degrees.jpg" alt="New Anchor Design" width="900"/>
     
 - 2022
   - Soil Sample Collector
@@ -43,7 +51,7 @@ title: Portfolio
 
 
 - **Passsion Projects:**
-  - General Atomics MQ-1 Predator
+  - MQ-1 Predator
     - Designed and conceptualized the MQ-1 Predator drone 
     - Studied the air flow and pressure simulation on the drone in Standard Temperature and Pressure (STP)  
     
