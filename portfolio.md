@@ -33,8 +33,8 @@ title: Portfolio
         
 - 2022
   - Load Carrying Truss Design
-    - Designed a truss structure constructed out of Steel and Aluminum material to support and carry a 3000 N load
-    - Applied fatigue analysis and fracture mechanics, stress analysis and mass efficiency analysis using Abaqus FEA
+    - Developed a structural truss system crafted from Steel and Aluminum to provide robust support for a 3000 N load.
+    - Employed advanced engineering methodologies, including fatigue analysis, fracture mechanics, stress analysis, and mass efficiency assessment, utilizing Abaqus Finite Element Analysis (FEA) software.
     - Implemented MATLAB program to automate the truss nodal displacement process
       
         <img src="Truss.JPG" alt="Truss design" width="600"/>
