@@ -46,7 +46,7 @@ title: Portfolio
  - 2023
   - General Atomics MQ-1 Predator
     - Designed and conceptualized the MQ-1 Predator drone 
-    - Studied the air flow and pressure simulation on the drone in STP (Standard Temperature and Pressure) 
+    - Studied the air flow and pressure simulation on the drone in Standard Temperature and Pressure (STP)  
     
         <img src="MQ-1Drone.jpg" alt="MQ-1 Drone" width="400"/>
         <img src="AirFlow.jpg" alt="Air Flow" width="400"/>
