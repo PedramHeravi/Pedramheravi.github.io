@@ -5,14 +5,14 @@ title: Portfolio
 ## [About](index.md) |  [Portfolio](portfolio.md) | [Contact](contact.md)
 
 - 2023
-  - Soil Sample Collector
+  - Rooftop Anchor Upgrades: Elevating Safety
     - A total of 16 anchors were installed on the rooftop of the building. During our assessment, it was determined that 4 of these anchors required modification.
     - The modified anchors have been equipped with a 45-degree bend. This design allows window cleaners to secure their safety ropes solely on the U-bar of the anchor, thereby minimizing the risk of safety rope damage.
     - These anchor modifications have not only prioritized safety but also optimized operational efficiency. 
       
-        <img src="Roof Drawing.jpg" alt="Roof Plan" width="900"/>
-        <img src="Eng.Drawing.jpg " alt="Mechanical Drawing" width="900"/>
-        <img src="45 degrees.jpg" alt="New Anchor Design" width="900"/>
+        <img src="Roof Drawing.jpg" alt="Roof Plan" width="500"/>
+        <img src="Eng.Drawing.jpg " alt="Mechanical Drawing" width="500"/>
+        <img src="45 degrees.jpg" alt="New Anchor Design" width="500"/>
     
 - 2022
   - Soil Sample Collector
