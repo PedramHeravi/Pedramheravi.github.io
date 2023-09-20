@@ -4,23 +4,7 @@ title: Portfolio
 
 ## [About](index.md) |  [Portfolio](portfolio.md) | [Contact](contact.md)
 
-- 2023
-  - General Atomics MQ-1 Predator
-    - Designed and conceptualized the MQ-1 Predator drone 
-    - Studied the air flow and pressure simulation on the drone in STP (Standard Temperature and Pressure) 
-    
-        <img src="MQ-1Drone.jpg" alt="MQ-1 Drone" width="400"/>
-        <img src="AirFlow.jpg" alt="Air Flow" width="400"/>
-        <img src="pressure2.jpg" alt="pressure 2" width="400"/>
-        <img src="pressure1.jpg" alt="pressure1" width="400"/>
 
-- 2023
-  - House HVAC System
-    - Designed an HVAC system for a 3-bedroom house 
-    - Taking to account the layout of the rooms for an optical heating system
-      
-        <img src="HVAC1.png" alt="Front View" width="400"/>
-        <img src="HVAC2.png" alt="Back View" width="400"/>
     
 - 2022
   - Soil Sample Collector
