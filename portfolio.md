@@ -43,7 +43,6 @@ title: Portfolio
 
 
 - Passsion Projects:
- - 2023
   - General Atomics MQ-1 Predator
     - Designed and conceptualized the MQ-1 Predator drone 
     - Studied the air flow and pressure simulation on the drone in Standard Temperature and Pressure (STP)  
@@ -53,7 +52,6 @@ title: Portfolio
         <img src="pressure2.jpg" alt="pressure 2" width="400"/>
         <img src="pressure1.jpg" alt="pressure1" width="400"/>
 
-- 2023
   - House HVAC System
     - Designed an HVAC system for a 3-bedroom house 
     - Taking to account the layout of the rooms for an optical heating system
