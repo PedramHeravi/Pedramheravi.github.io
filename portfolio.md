@@ -42,7 +42,7 @@ title: Portfolio
        <img src="Picture4.png" alt="Wing flaps" width="400"/>
 
 
-- Passsion Projects:
+- **Passsion Projects:**
   - General Atomics MQ-1 Predator
     - Designed and conceptualized the MQ-1 Predator drone 
     - Studied the air flow and pressure simulation on the drone in Standard Temperature and Pressure (STP)  
