@@ -6,6 +6,7 @@ title: Portfolio
 
 - 2023
   - Rooftop Anchor Upgrades: Elevating Safety
+
 In this project, a total of 16 rooftop anchors were installed to enhance safety during elevated work. Following a thorough assessment, four (4) of these anchors were modified with a 45-degree bend design. This modification allows workers to secure their safety ropes directly to the U-bar of the anchor, minimizing the risk of rope damage and prioritizing safety. These anchor enhancements not only boost safety measures but also optimize operational efficiency, facilitating smoother and more secure rooftop work procedures.
       
         <img src="Roof Drawing.jpg" alt="Roof Plan" width="500"/>
@@ -15,6 +16,7 @@ In this project, a total of 16 rooftop anchors were installed to enhance safety 
 
 - 2023
   - Anchor and Davit Arm Load Testing
+
 In this project, we employed specialized Anchor Load Testing procedures as a critical step in verifying the system's ability to safely support a substantial 2500 lb load, thereby ensuring full compliance with stringent safety regulations. The process began with a meticulous evaluation of anchor points, where we conducted a comprehensive assessment to ascertain their load-bearing capacities. This step was essential to understand the system's current state and identify potential vulnerabilities.
 
 Our commitment to precision extended to the documentation phase, where we provided detailed reporting of the entire load testing procedure. This documentation encompassed every facet of our evaluation, including the methodologies employed, the results obtained, and, most importantly, our recommendations. These recommendations were instrumental in guiding future maintenance efforts or, if necessary, the replacement of anchors that did not meet the requisite load-bearing criteria.
