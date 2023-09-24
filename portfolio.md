@@ -34,6 +34,7 @@ To bring the project to fruition, I harnessed SolidWorks as our primary design t
         
 - 2022
   - Load Carrying Truss Design
+
 In this project, I spearheaded the development of a structural truss system meticulously crafted from a combination of steel and aluminum materials, engineered to provide exceptional support for a substantial 3000 N load. This endeavor demanded the application of advanced engineering methodologies, including fatigue analysis, fracture mechanics, stress analysis, and mass efficiency assessment. To ensure the truss's structural integrity and performance under varying conditions, I employed Abaqus Finite Element Analysis (FEA) software, conducting rigorous simulations and analysis.
 To further streamline and enhance the project's efficiency, I leveraged my skills in programming by implementing a MATLAB program. This program automated the complex process of calculating nodal displacements within the truss system, improving accuracy and reducing manual effort. 
       
@@ -42,6 +43,7 @@ To further streamline and enhance the project's efficiency, I leveraged my skill
 
 - 2021
   - SpaceCraft analysis
+
 In this project, a comprehensive analysis of the physical and surface properties of various materials employed in the construction of a CubeSat was conducted. The primary objective was to calculate the thermal loads exerted on the CubeSat's surfaces during its orbital journey around Earth. This entailed a meticulous examination of each material's thermal conductivity, emissivity, and other pertinent characteristics to model and predict heat transfer in space conditions accurately.
 
 Furthermore, Siemens NX software was instrumental in assessing the heat dissipation capabilities of these materials under extreme conditions, including both cold and hot scenarios encountered in space and vacuum environments. This detailed examination provided valuable insights into the behavior of different materials in the harsh space environment, aiding in durability checks.
@@ -51,6 +53,7 @@ Furthermore, Siemens NX software was instrumental in assessing the heat dissipat
         
 - 2020
   - Boeing 787 wing flaps
+ 
 In this project, I took on the task of designing aileron flaps, drawing inspiration from the sophisticated wing flap system employed in Boeing 787 aircraft. My role extended beyond design to include animation, where I visually depicted the trajectory and motion of these aileron flaps, showcasing their transition from a closed position to full openness. To ensure optimal functionality, I engaged in the critical process of link length and degree of freedom optimization, fine-tuning the mechanisms to maximize efficiency and effectiveness.
        <img src="Picture3.jpg" alt="Wing flaps" width="400"/>
        <img src="Picture4.png" alt="Wing flaps" width="400"/>
