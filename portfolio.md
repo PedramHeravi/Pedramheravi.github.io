@@ -26,6 +26,7 @@ Our commitment to precision extended to the documentation phase, where we provid
         
 - 2022
   - Soil Sample Collector
+
 In this project, I played a pivotal role in conceptualizing and designing sustainable solutions for the drilling, collection, and storage of various soil samples, essential for a rover's participation in the prestigious Canadian International Rover Challenge. My responsibilities extended beyond design, involving effective communication with stakeholders and customers to gather requirements and feedback. I meticulously documented the project's progress through various stages, including the Preliminary Concept Review (PCR), and assigned tasks to team members based on their qualifications and capabilities, ensuring that our design aligns with the intended objectives.
 To bring the project to fruition, I harnessed SolidWorks as our primary design tool, meticulously crafting the final solution. Rigorous testing and validation were cornerstones of our approach, encompassing comprehensive environmental assessments, safety evaluations, and fault analysis.
         <img src="rover.png" alt="Rover" width="900"/>
