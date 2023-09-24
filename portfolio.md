@@ -28,7 +28,7 @@ In the documentation phase, we provide detailed reporting of the entire load tes
 - 2022
   - Soil Sample Collector
 
-In this project, I played a pivotal role in conceptualizing and designing sustainable solutions for the drilling, collection, and storage of various soil samples, essential for a rover's participation in the prestigious Canadian International Rover Challenge. My responsibilities extended beyond design, involving effective communication with stakeholders and customer to gather requirements and feedback. I documented the project's progress through various stages, including the Preliminary Concept Review (PCR), and assigned tasks to team members based on their qualifications and capabilities, ensuring that our design aligns with the intended objectives.
+In my capstone project, I played a pivotal role in conceptualizing and designing sustainable solutions for the drilling, collection, and storage of various soil samples, essential for a rover's participation in the prestigious Canadian International Rover Challenge. My responsibilities extended beyond design, involving effective communication with stakeholders and customer to gather requirements and feedback. I documented the project's progress through various stages, including the Preliminary Concept Review (PCR), and assigned tasks to team members based on their qualifications and capabilities, ensuring that our design aligns with the intended objectives.
 To bring the project to fruition, we harnessed SolidWorks as our primary design tool, crafting the final solution. Rigorous testing and validation were performed, encompassing comprehensive environmental assessments, safety evaluations, and fault analysis.
         <img src="rover.png" alt="Rover" width="900"/>
         
@@ -36,7 +36,7 @@ To bring the project to fruition, we harnessed SolidWorks as our primary design 
 - 2022
   - Load Carrying Truss Design
 
-In this project, I took the lead in developing a structural truss system that was crafted using a mix of steel and aluminum materials. The goal of this project was to make sure my design could support a 3000 N load. Achieving this meant diving deep into some advanced engineering methods, like fatigue analysis, fracture mechanics, stress analysis, and mass efficiency assessment.
+In this competition, I took the lead in developing a structural truss system that was crafted using a mix of steel and aluminum materials. The goal of this project was to make sure my design could support a 3000 N load. Achieving this meant diving deep into some advanced engineering methods, like fatigue analysis, fracture mechanics, stress analysis, and mass efficiency assessment.
 
 To ensure the truss's structural integrity and performance under varying conditions, I employed Abaqus Finite Element Analysis (FEA) software, conducting rigorous simulations and analysis.
 To further streamline and enhance the project's efficiency, I used programming by implementing a MATLAB program. This program automated the complex process of calculating nodal displacements within the truss system, improving accuracy and reducing manual effort. 
