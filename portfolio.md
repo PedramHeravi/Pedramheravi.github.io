@@ -11,7 +11,7 @@ In this project, a total of 16 rooftop anchors were installed to enhance safety 
       
   <img src="Roof Drawing.jpg" alt="Roof Plan" width="500"/>
   <img src="Eng.Drawing.jpg " alt="Mechanical Drawing" width="500"/>
-        <img src="45 degrees.jpg" alt="New Anchor Design" width="500"/>
+  <img src="45 degrees.jpg" alt="New Anchor Design" width="500"/>
 
 
 - 2023
@@ -21,8 +21,8 @@ In this project, we employed specialized Anchor Load Testing procedures as a cri
 
 Our commitment to precision extended to the documentation phase, where we provided detailed reporting of the entire load testing procedure. This documentation encompassed every facet of our evaluation, including the methodologies employed, the results obtained, and, most importantly, our recommendations. These recommendations were instrumental in guiding future maintenance efforts or, if necessary, the replacement of anchors that did not meet the requisite load-bearing criteria.
 
-        <img src="20230922_130015.jpg" alt="Davit Arm Test" width="500"/>
-        <img src="20230922_104717.jpg " alt="Gage" width="500"/>
+  <img src="20230922_130015.jpg" alt="Davit Arm Test" width="500"/>
+  <img src="20230922_104717.jpg " alt="Gage" width="500"/>
         
 - 2022
   - Soil Sample Collector
@@ -38,7 +38,7 @@ To bring the project to fruition, I harnessed SolidWorks as our primary design t
 In this project, I spearheaded the development of a structural truss system meticulously crafted from a combination of steel and aluminum materials, engineered to provide exceptional support for a substantial 3000 N load. This endeavor demanded the application of advanced engineering methodologies, including fatigue analysis, fracture mechanics, stress analysis, and mass efficiency assessment. To ensure the truss's structural integrity and performance under varying conditions, I employed Abaqus Finite Element Analysis (FEA) software, conducting rigorous simulations and analysis.
 To further streamline and enhance the project's efficiency, I leveraged my skills in programming by implementing a MATLAB program. This program automated the complex process of calculating nodal displacements within the truss system, improving accuracy and reducing manual effort. 
       
-        <img src="Truss.JPG" alt="Truss design" width="600"/>
+  <img src="Truss.JPG" alt="Truss design" width="600"/>
         
 
 - 2021
@@ -48,8 +48,8 @@ In this project, a comprehensive analysis of the physical and surface properties
 
 Furthermore, Siemens NX software was instrumental in assessing the heat dissipation capabilities of these materials under extreme conditions, including both cold and hot scenarios encountered in space and vacuum environments. This detailed examination provided valuable insights into the behavior of different materials in the harsh space environment, aiding in durability checks.
 
-        <img src="Picture1.jpg" alt="SpaceCraft analysis" width="400"/>
-        <img src="Capture.JPG" alt="Internal PCB and external body Max Temprature" width="400"/>
+  <img src="Picture1.jpg" alt="SpaceCraft analysis" width="400"/>
+   <img src="Capture.JPG" alt="Internal PCB and external body Max Temprature" width="400"/>
         
 - 2020
   - Boeing 787 wing flaps
