@@ -10,6 +10,7 @@ title: Portfolio
 In this project, a total of 16 rooftop anchors were installed to enhance safety during elevated work. Following a thorough assessment, four (4) of these anchors were modified with a 45-degree bend design. This modification allows workers to secure their safety ropes directly to the U-bar of the anchor, minimizing the risk of rope damage and prioritizing safety. These anchor enhancements not only boost safety measures but also optimize operational efficiency, facilitating smoother and more secure rooftop work procedures.
       
         <img src="Roof Drawing.jpg" alt="Roof Plan" width="500"/>
+        <img src="rover.png" alt="Rover" width="900"/>
         <img src="Eng.Drawing.jpg " alt="Mechanical Drawing" width="500"/>
         <img src="45 degrees.jpg" alt="New Anchor Design" width="500"/>
 
