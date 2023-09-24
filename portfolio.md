@@ -62,7 +62,7 @@ In this project, I had the exciting challenge of designing aileron flaps, drawin
        <img src="Picture4.png" alt="Wing flaps" width="400"/>
 
 
-- **Passsion Projects:**
+- **Passsion Project:**
   - MQ-1 Predator
     - Designed and conceptualized the MQ-1 Predator drone 
     - Studied the air flow and pressure simulation on the drone in Standard Temperature and Pressure (STP)  
